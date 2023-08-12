@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: whitesmoke;
+    color: #333333;
+}
+.container {
+    width: 50vw;
+    margin: 0 auto;
+}
+
+/* Headers */
+h3 {
+    margin: 10px 0px 10px 0px;
+}
+
+/* Lists */
+ul {
+    width: 150px;
+    margin: 0 auto;
+}
+li {
+    text-align: start;
+}
+
+/* Buttons */
+button {
+    background-color: #1D2c38;
+    color: whitesmoke;
+    margin: 20px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+/* Images */
+img {
+    width: 25vw;
+    border-radius: 50%;
+}
